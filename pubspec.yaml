@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  infinite_scroll_pagination: ^2.2.0+1
+  infinite_scroll_pagination: ^2.2.3
   dio: ^3.0.10
   provider: ^4.3.2+2
   cached_network_image: ^2.3.2+1
